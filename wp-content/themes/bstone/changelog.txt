@@ -1,0 +1,54 @@
+= 1.2.3 =
+* FIXED: Customizer icon picker control bug fix.
+
+= 1.2.2 =
+* ADD: bstone_entry_content_404_page Hook
+* ADD: bstone_single_header_title_before Hook
+* ADD: bstone_single_header_title_after Hook
+* FIXED: Boxed layout fixed when using Elementor
+* FIXED: Bug fix in Woo Mini Cart Widget
+* FIXED: Bread Crumbs Month in Blog Archive
+* FIXED: Container Spacing Removed on Full Width / Streched layout
+
+= 1.2.1 =
+* FIXED: More than one text-domain was used.
+
+= 1.2.0 =
+* ADD: Icon Picker Control
+* IMPROVED: Blog Layout Customizer Settings
+
+= 1.1.9 =
+* FIXED: Header hidden when title section enabled
+
+= 1.1.8 =
+* ADD: Clear cache when customizer options updated
+* ADD: Drop down menu toggle on small devices
+* IMPROVED: Form styles customization can be disabled
+
+= 1.1.6 =
+* ADD: WooCommerce Shop Customizer
+* FIXED: Responsive Menu Background in Transparent Header
+
+= 1.1.5 =
+* FIXED: Blog grid style banner issues in mobile
+
+= 1.1.4 =
+* ADD: Custom comment list markup
+* ADD: Secondary Text Color Option
+
+= 1.1.3 =
+ * ADD: Sidebar Widgets Border
+ * IMPROVED: Improve search and 404 CSS style.
+ * FIXED: Blog content custom width was not working
+ 
+ = 1.1.2 =
+ * FIXED: Title area display issues.
+ * ADD: Posts slider
+ * ADD: Scroll to top button
+ * ADD: bstone.pot
+
+= 1.1.1 =
+* IMPROVED: Update theme screenshot to matching the default setting.
+
+= 1.1.0 =
+* Initial release
